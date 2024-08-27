@@ -1,4 +1,4 @@
-What will be the output of the following JavaScript code?
+### What will be the output of the following JavaScript code?
 
 
 async function fetchData() {
@@ -18,7 +18,7 @@ processData();
 console.log("End of script");
 
 
-output =>
+ ### output =>
 Start processing
 Fetching data...
 Processing data

@@ -1,4 +1,4 @@
-What will be the output of the following JavaScript code?
+### What will be the output of the following JavaScript code?
 
 function delayedGreeting() {
   return new Promise((resolve) => {
